@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0960474b-c8ad-4498-af18-bc52754b33ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-sem-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/CarInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/MobileNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/PrinterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/RentCarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/last/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/last/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/DepositAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/PaymentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/SalaryAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/third/CardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/third/InthernetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/third/PhonePayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/third/TerminalPaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +57,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
